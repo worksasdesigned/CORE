@@ -1,0 +1,29 @@
+<resources>
+    <fonts>	
+	  <font id="id_font_big" filename="fonts/dotbig.fnt" filter="0123456789:# " />
+    </fonts>
+    <fonts>	
+	  <font id="id_font_corebig" filename="fonts/coredotbig.fnt" filter="0123456789:# " />
+    </fonts>
+       <fonts>	
+	  <font id="id_font_half" filename="fonts/dothalf.fnt" filter="0123456789:# " />
+    </fonts>
+       <fonts>	
+	  <font id="id_font_norm" filename="fonts/dotnorm.fnt" filter="0123456789:. " />
+    </fonts>
+    <fonts>	
+	  <font id="id_font_tiny" filename="fonts/dottiny.fnt" filter="0123456789:.# " />
+    </fonts>
+    <fonts>	
+	  <font id="id_font_xtiny" filename="fonts/dotxtiny.fnt" filter="0123456789/:. WMTSFDonuesirtmahdvqNw!-^" />
+    </fonts>
+    <fonts>	
+	  <font id="id_font_min" filename="fonts/dotmin.fnt" filter="0123456789:./ kmiFtzZ-" />
+    </fonts>
+    <fonts>	
+	  <font id="id_font_minbold" filename="fonts/dotminbold.fnt" filter="0123456789:./ kmiFtzZ-" />
+    </fonts>
+    <fonts>	
+	  <font id="id_font_min_txt" filename="fonts/dotmin_txt.fnt" filter="WMNTSFDBGQqPCVLJZp012345.: onuesirtmlkfdhaz6789!+-[]/'§$@{}|#"/>
+    </fonts>
+</resources>

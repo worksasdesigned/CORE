@@ -1,0 +1,135 @@
+<strings>
+
+    <string id="AppName">FenixCore</string>
+    
+	<string id="watchfont">Main Font</string>
+	<string id="DOT">DOT</string>
+	<string id="CORE">CORE</string>
+	<string id="MEDIUM">MEDIUM</string>
+	<string id="SMALL">SMALL</string>
+	<string id="VERYSMALL">VERY SMALL</string>
+	
+	<string id="language">Language</string>
+	<string id="german">german</string>
+	<string id="english">english</string>
+    <string id="french">french</string>
+    <string id="russian">russian</string>
+    
+            <string id="foreground">Text color</string>
+            <string id="background">Background color</string>
+
+            <string id="black">Black</string>
+            <string id="white">White</string>
+            <string id="ltgray">Light gray</string>
+			<string id="dkgray">Dark Gray</string>
+			<string id="red">Red</string>
+			<string id="dkred">Dark red</string>
+			<string id="blue">Blue</string>
+			<string id="dkblue">Dark blue</string>
+			<string id="pink">Pink</string>
+			<string id="green">Green</string>
+			<string id="dkgreen">Dark green</string>
+
+
+             <string id="topline">Top Line (small)</string>
+             <string id="battery">Battery symbol</string>
+             <string id="batteryno">Battery numbers</string>
+             <string id="bluetooth">Bluetooth symbol</string>
+             <string id="alarm">Alarm symbol</string>
+             <string id="messages">Messages symbol</string>
+             <string id="btalarm">Bt  alarm</string>
+             <string id="btalarmmessages">Bt  alarm  msg </string>
+             <string id="steps">Steps</string>    
+             <string id="date">Date (short)</string>
+             <string id="movebar">MoveBar</string>
+             <string id="altitudem">Altitude in m</string>
+             <string id="altitudeft">Altitude in ft</string>
+             <string id="hrgrob">HR graph dot</string>
+             <string id="hrmiddle">HR graph middle</string>
+             <string id="hrdetail">HR graph detail</string>
+             <string id="sun">Sunrise / sunset</string>
+
+
+    		 <string id="toplinecolor">Top line in color?</string>
+    		 <string id="bold">Top / Last line BOLD</string>
+    		 
+
+    		 <string id="uplinecolor">Upper line in color?</string>
+    		 <string id="upline">Upper line</string>
+
+             <string id="standard">--standard--</string>            
+             <string id="nothing">show no info here</string>            
+             <string id="stepgraphdot">StepGraph DOT</string>
+             <string id="stepgraphline">StepGraph Line</string>
+             <string id="datemid">Date (medium)</string>
+             <string id="dateshort">Date (short)</string>
+             <string id="steps">Steps</string>
+             <string id="stepsgoal">Steps / Goal</string>
+             <string id="stepsweek">Steps week</string>    
+             <string id="stepsweekgoal">Steps Week / Goal</string>
+             <string id="worldtime">World Time</string>
+             <string id="kkal">Kcal</string>
+             <string id="kkalweek">Kcal week</string>
+             <string id="km">Kilometer</string>
+             <string id="m">Meter</string>
+             <string id="mi">Miles</string>
+             <string id="ft">Feet</string>
+             
+             
+             <string id="lowlinecolor">Lower line in color?</string>
+    		 <string id="lowline">Lower Line</string>
+             
+             <string id="lastlinecolor">Last line in color?</string>
+    		 <string id="lastline">Last line</string>
+             <string id="lastlineactive">Last line only while ACTIVE state?</string>
+
+             <string id="secindicator">Seconds Indicator</string>
+             <string id="fivedots">stylish</string>
+             <string id="fourbars">CORE</string>
+             <string id="onedot">simple</string>
+             
+             <string id="utc">Set World Time Zone</string>
+             <string id="utchide">Hide day difference</string>
+
+             <string id="a1">UTC '-12</string>
+             <string id="a2">UTC '-11</string>
+             <string id="a3">UTC '-10</string>
+             <string id="a4">UTC '-9:30</string>
+             <string id="a5">UTC '-9</string>
+             <string id="a6">UTC '-8</string>
+             <string id="a7">UTC '-7</string>
+             <string id="a8">UTC '-6</string>
+             <string id="a9">UTC '-5</string>
+             <string id="a10">UTC '-4</string>
+             <string id="a11">UTC '-3:30</string>
+             <string id="a12">UTC '-3</string>
+             <string id="a13">UTC '-2</string>
+             <string id="a14">UTC '-1</string>
+             <string id="a15">UTC '0</string>
+             <string id="a16">UTC '+1</string>
+             <string id="a17">UTC '+2</string>
+             <string id="a18">UTC '+3</string>
+             <string id="a19">UTC '+3:30</string>
+             <string id="a20">UTC '+4</string>
+             <string id="a21">UTC '+4:30</string>
+             <string id="a22">UTC '+5</string>
+             <string id="a23">UTC '+5:30</string>
+             <string id="a24">UTC '+5:45</string>
+             <string id="a25">UTC '+6</string>
+             <string id="a26">UTC '+6:30</string>
+             <string id="a27">UTC '+7</string>
+             <string id="a28">UTC '+8</string>
+             <string id="a29">UTC '+8:30</string>
+             <string id="a30">UTC '+8:45</string>
+             <string id="a31">UTC '+9</string>
+             <string id="a32">UTC '+9:30</string>
+             <string id="a33">UTC '+10</string>
+             <string id="a34">UTC '+10:30</string>
+             <string id="a35">UTC '+11</string>
+             <string id="a36">UTC '+12</string>
+             <string id="a37">UTC '+12:45</string>
+             <string id="a38">UTC '+13</string>
+             <string id="a39">UTC '+14</string>
+             
+             			 
+</strings>

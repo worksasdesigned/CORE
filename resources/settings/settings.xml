@@ -1,0 +1,248 @@
+<settings>
+    <setting propertyKey="@Properties.language" title="@Strings.language">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.english</listEntry>
+            <listEntry value="1">@Strings.german</listEntry>
+            <listEntry value="2">@Strings.french</listEntry>
+            <listEntry value="3">@Strings.russian</listEntry>
+            
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.foreground" title="@Strings.foreground">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.black</listEntry>
+            <listEntry value="2">@Strings.white</listEntry>
+            <listEntry value="3">@Strings.ltgray</listEntry>
+			<listEntry value="4">@Strings.dkgray</listEntry>
+			<listEntry value="5">@Strings.red</listEntry>
+			<listEntry value="6">@Strings.dkred</listEntry>
+			<listEntry value="7">@Strings.blue</listEntry>
+			<listEntry value="8">@Strings.dkblue</listEntry>
+			<listEntry value="9">@Strings.pink</listEntry>
+			<listEntry value="10">@Strings.green</listEntry>
+			<listEntry value="11">@Strings.dkgreen</listEntry>
+        </settingConfig>
+    </setting>
+        <setting propertyKey="@Properties.background" title="@Strings.background">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.black</listEntry>
+            <listEntry value="2">@Strings.white</listEntry>
+            <listEntry value="3">@Strings.ltgray</listEntry>
+			<listEntry value="4">@Strings.dkgray</listEntry>
+			<listEntry value="5">@Strings.red</listEntry>
+			<listEntry value="6">@Strings.dkred</listEntry>
+			<listEntry value="7">@Strings.blue</listEntry>
+			<listEntry value="8">@Strings.dkblue</listEntry>
+			<listEntry value="9">@Strings.pink</listEntry>
+			<listEntry value="10">@Strings.green</listEntry>
+			<listEntry value="11">@Strings.dkgreen</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.watchfont" title="@Strings.watchfont">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.DOT</listEntry>
+            <listEntry value="2">@Strings.CORE</listEntry>
+            <listEntry value="3">@Strings.MEDIUM</listEntry>
+            <listEntry value="4">@Strings.SMALL</listEntry>
+            <listEntry value="5">@Strings.VERYSMALL</listEntry>
+
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.toplinecolor" title="@Strings.toplinecolor">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>
+        <setting propertyKey="@Properties.bold" title="@Strings.bold">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>
+    <setting propertyKey="@Properties.topline" title="@Strings.topline">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.nothing</listEntry>
+            <listEntry value="2">@Strings.battery</listEntry>
+            <listEntry value="3">@Strings.batteryno</listEntry>
+            <listEntry value="4">@Strings.bluetooth</listEntry>
+            <listEntry value="5">@Strings.alarm</listEntry>
+            <listEntry value="6">@Strings.messages</listEntry>
+            <listEntry value="7">@Strings.btalarm</listEntry>
+            <listEntry value="8">@Strings.btalarmmessages</listEntry>
+            <listEntry value="9">@Strings.steps</listEntry>    
+            <listEntry value="10">@Strings.date</listEntry>
+            <listEntry value="11">@Strings.movebar</listEntry>
+            <listEntry value="12">@Strings.km</listEntry>
+            <listEntry value="13">@Strings.m</listEntry>
+            <listEntry value="14">@Strings.mi</listEntry>
+            <listEntry value="15">@Strings.ft</listEntry>
+            <listEntry value="16">@Strings.kkal</listEntry>
+            <listEntry value="17">@Strings.kkalweek</listEntry>
+            <listEntry value="18">@Strings.altitudem</listEntry>
+            <listEntry value="19">@Strings.altitudeft</listEntry>
+            <listEntry value="20">@Strings.sun</listEntry>
+        
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.uplinecolor" title="@Strings.uplinecolor">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>
+        <setting propertyKey="@Properties.upline" title="@Strings.upline">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.nothing</listEntry>
+            <listEntry value="2">@Strings.stepgraphline</listEntry>
+            <listEntry value="3">@Strings.stepgraphdot</listEntry>
+            <listEntry value="4">@Strings.datemid</listEntry>
+            <listEntry value="5">@Strings.dateshort</listEntry>
+            <listEntry value="6">@Strings.steps</listEntry>
+            <listEntry value="7">@Strings.stepsgoal</listEntry>
+            <listEntry value="8">@Strings.stepsweek</listEntry>    
+            <listEntry value="9">@Strings.stepsweekgoal</listEntry>
+            <listEntry value="10">@Strings.worldtime</listEntry>
+            <listEntry value="11">@Strings.kkal</listEntry>
+            <listEntry value="12">@Strings.kkalweek</listEntry>
+            <listEntry value="13">@Strings.km</listEntry>
+            <listEntry value="14">@Strings.m</listEntry>
+            <listEntry value="15">@Strings.mi</listEntry>
+            <listEntry value="16">@Strings.ft</listEntry>
+            <listEntry value="17">@Strings.altitudem</listEntry>
+            <listEntry value="18">@Strings.altitudeft</listEntry>
+            <listEntry value="19">@Strings.hrgrob</listEntry>
+            <listEntry value="20">@Strings.hrmiddle</listEntry>
+            <listEntry value="21">@Strings.hrdetail</listEntry>
+            <listEntry value="22">@Strings.sun</listEntry>
+            
+        </settingConfig>
+    </setting>
+
+    
+    <setting propertyKey="@Properties.lowlinecolor" title="@Strings.lowlinecolor">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>
+
+     <setting propertyKey="@Properties.lowline" title="@Strings.lowline">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.nothing</listEntry>
+            <listEntry value="2">@Strings.stepgraphline</listEntry>
+            <listEntry value="3">@Strings.stepgraphdot</listEntry>
+            <listEntry value="4">@Strings.datemid</listEntry>
+            <listEntry value="5">@Strings.dateshort</listEntry>
+            <listEntry value="6">@Strings.steps</listEntry>
+            <listEntry value="7">@Strings.stepsgoal</listEntry>
+            <listEntry value="8">@Strings.stepsweek</listEntry>    
+            <listEntry value="9">@Strings.stepsweekgoal</listEntry>
+            <listEntry value="10">@Strings.worldtime</listEntry>
+            <listEntry value="11">@Strings.kkal</listEntry>
+            <listEntry value="12">@Strings.kkalweek</listEntry>
+            <listEntry value="13">@Strings.km</listEntry>
+            <listEntry value="14">@Strings.m</listEntry>
+            <listEntry value="15">@Strings.mi</listEntry>
+            <listEntry value="16">@Strings.ft</listEntry>
+            <listEntry value="17">@Strings.altitudem</listEntry>
+            <listEntry value="18">@Strings.altitudeft</listEntry>
+            <listEntry value="19">@Strings.hrgrob</listEntry>
+            <listEntry value="20">@Strings.hrmiddle</listEntry>
+            <listEntry value="21">@Strings.hrdetail</listEntry>
+            <listEntry value="22">@Strings.sun</listEntry>
+            
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.lastlinecolor" title="@Strings.lastlinecolor">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>
+    <setting propertyKey="@Properties.lastlineactive" title="@Strings.lastlineactive">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>    
+    <setting propertyKey="@Properties.lastline" title="@Strings.lastline">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.nothing</listEntry>
+            <listEntry value="2">@Strings.battery</listEntry>
+            <listEntry value="3">@Strings.batteryno</listEntry>
+            <listEntry value="4">@Strings.bluetooth</listEntry>
+            <listEntry value="5">@Strings.alarm</listEntry>
+            <listEntry value="6">@Strings.messages</listEntry>
+            <listEntry value="7">@Strings.btalarm</listEntry>
+            <listEntry value="8">@Strings.btalarmmessages</listEntry>
+            <listEntry value="9">@Strings.steps</listEntry>    
+            <listEntry value="10">@Strings.date</listEntry>
+            <listEntry value="11">@Strings.movebar</listEntry>
+            <listEntry value="12">@Strings.km</listEntry>
+            <listEntry value="13">@Strings.m</listEntry>
+            <listEntry value="14">@Strings.mi</listEntry>
+            <listEntry value="15">@Strings.ft</listEntry>            
+            <listEntry value="16">@Strings.sun</listEntry>            
+            
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.secindicator" title="@Strings.secindicator">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.standard</listEntry>
+            <listEntry value="1">@Strings.nothing</listEntry>
+            <listEntry value="2">@Strings.fivedots</listEntry>
+            <listEntry value="3">@Strings.fourbars</listEntry>
+            <listEntry value="4">@Strings.onedot</listEntry>
+        </settingConfig>
+    </setting>
+
+
+    <setting propertyKey="@Properties.utchide" title="@Strings.utchide">
+        <settingConfig type="boolean">
+        </settingConfig>       
+    </setting>     
+    <setting propertyKey="@Properties.utc" title="@Strings.utc">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.a1</listEntry>
+            <listEntry value="2">@Strings.a2</listEntry>
+            <listEntry value="3">@Strings.a3</listEntry>
+            <listEntry value="4">@Strings.a4</listEntry>
+            <listEntry value="5">@Strings.a5</listEntry>
+            <listEntry value="6">@Strings.a6</listEntry>
+            <listEntry value="7">@Strings.a7</listEntry>
+            <listEntry value="8">@Strings.a8</listEntry>
+            <listEntry value="9">@Strings.a9</listEntry>
+            <listEntry value="10">@Strings.a10</listEntry>
+            <listEntry value="11">@Strings.a11</listEntry>
+            <listEntry value="12">@Strings.a12</listEntry>
+            <listEntry value="13">@Strings.a13</listEntry>
+            <listEntry value="14">@Strings.a14</listEntry>
+            <listEntry value="15">@Strings.a15</listEntry>
+            <listEntry value="16">@Strings.a16</listEntry>
+            <listEntry value="17">@Strings.a17</listEntry>
+            <listEntry value="18">@Strings.a18</listEntry>
+            <listEntry value="19">@Strings.a19</listEntry>
+            <listEntry value="20">@Strings.a20</listEntry>
+            <listEntry value="21">@Strings.a21</listEntry>
+            <listEntry value="22">@Strings.a22</listEntry>
+            <listEntry value="23">@Strings.a23</listEntry>
+            <listEntry value="24">@Strings.a24</listEntry>
+            <listEntry value="25">@Strings.a25</listEntry>
+            <listEntry value="26">@Strings.a26</listEntry>
+            <listEntry value="27">@Strings.a27</listEntry>
+            <listEntry value="28">@Strings.a28</listEntry>
+            <listEntry value="29">@Strings.a29</listEntry>
+            <listEntry value="30">@Strings.a30</listEntry>
+            <listEntry value="31">@Strings.a31</listEntry>
+            <listEntry value="32">@Strings.a32</listEntry>
+            <listEntry value="33">@Strings.a33</listEntry>
+            <listEntry value="34">@Strings.a34</listEntry>
+            <listEntry value="35">@Strings.a35</listEntry>
+            <listEntry value="36">@Strings.a36</listEntry>
+            <listEntry value="37">@Strings.a37</listEntry>
+            <listEntry value="38">@Strings.a38</listEntry>
+            <listEntry value="39">@Strings.a39</listEntry>
+        </settingConfig>
+    </setting>
+
+</settings>

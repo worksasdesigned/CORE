@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="112" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="113" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="117" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="119" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="120" pc="268435506" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="121" pc="268435562" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="124" pc="268435618" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="125" pc="268435661" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="126" pc="268435704" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="127" pc="268435747" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="128" pc="268435790" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="129" pc="268435833" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="131" pc="268435876" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="132" pc="268435919" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="133" pc="268435962" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="137" pc="268436005" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="140" pc="268436028" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="140" pc="268436045" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="141" pc="268436061" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="144" pc="268436100" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="145" pc="268436113" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="148" pc="268436152" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="149" pc="268436165" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="150" pc="268436178" symbol="onLayout"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="168" pc="268436195" symbol="onShow"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="172" pc="268436200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="176" pc="268436204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="177" pc="268436214" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="178" pc="268436245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="178" pc="268436250" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="180" pc="268436263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="181" pc="268436300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="184" pc="268436337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="184" pc="268436354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="185" pc="268436394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="186" pc="268436434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="187" pc="268436474" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="188" pc="268436514" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="189" pc="268436554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="190" pc="268436594" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="191" pc="268436634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="192" pc="268436674" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="193" pc="268436714" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="194" pc="268436754" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="195" pc="268436794" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="197" pc="268436817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="197" pc="268436834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="198" pc="268436874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="199" pc="268436914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="200" pc="268436954" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="201" pc="268436994" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="202" pc="268437034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="203" pc="268437074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="204" pc="268437114" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="205" pc="268437154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="206" pc="268437194" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="207" pc="268437234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="208" pc="268437274" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="213" pc="268437297" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="214" pc="268437325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="217" pc="268437337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="222" pc="268437368" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="223" pc="268437385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="224" pc="268437385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="225" pc="268437401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="226" pc="268437411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="227" pc="268437421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="229" pc="268437428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="230" pc="268437439" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="230" pc="268437450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="232" pc="268437521" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="233" pc="268437578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="234" pc="268437635" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="239" pc="268437684" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="241" pc="268437715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="242" pc="268437752" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="243" pc="268437763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="245" pc="268437864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="247" pc="268437965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="249" pc="268438072" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="251" pc="268438173" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="254" pc="268438283" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="255" pc="268438294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="257" pc="268438395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="259" pc="268438502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="261" pc="268438609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="263" pc="268438699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="266" pc="268438812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="267" pc="268438823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="269" pc="268438930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="271" pc="268439037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="273" pc="268439144" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="275" pc="268439240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="278" pc="268439336" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="284" pc="268439367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="285" pc="268439398" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="288" pc="268439429" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="289" pc="268439468" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="290" pc="268439543" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="291" pc="268439618" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="292" pc="268439692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="293" pc="268439766" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="294" pc="268439840" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="295" pc="268439914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="296" pc="268439988" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="297" pc="268440060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="298" pc="268440135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="299" pc="268440211" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="300" pc="268440288" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="301" pc="268440365" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="302" pc="268440442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="303" pc="268440519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="304" pc="268440591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="305" pc="268440663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="306" pc="268440736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="307" pc="268440809" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="315" pc="268440852" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="316" pc="268440883" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="318" pc="268440914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="318" pc="268440925" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="320" pc="268441020" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="321" pc="268441106" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="322" pc="268441192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="323" pc="268441273" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="324" pc="268441354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="325" pc="268441435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="326" pc="268441516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="327" pc="268441594" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="328" pc="268441672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="329" pc="268441746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="330" pc="268441824" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="331" pc="268441902" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="332" pc="268441985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="333" pc="268442068" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="334" pc="268442151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="335" pc="268442234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="336" pc="268442313" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="337" pc="268442392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="338" pc="268442475" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="339" pc="268442558" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="340" pc="268442641" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="348" pc="268442690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="349" pc="268442721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="351" pc="268442752" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="351" pc="268442763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="353" pc="268442881" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="354" pc="268443003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="355" pc="268443131" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="356" pc="268443230" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="357" pc="268443329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="358" pc="268443428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="359" pc="268443527" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="360" pc="268443623" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="361" pc="268443719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="362" pc="268443811" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="363" pc="268443907" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="364" pc="268444003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="365" pc="268444104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="366" pc="268444205" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="367" pc="268444306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="368" pc="268444407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="369" pc="268444504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="370" pc="268444601" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="371" pc="268444702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="372" pc="268444803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="373" pc="268444904" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="380" pc="268444971" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="382" pc="268444975" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="383" pc="268445007" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="383" pc="268445018" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="385" pc="268445028" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="387" pc="268445032" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="388" pc="268445038" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="389" pc="268445069" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="390" pc="268445100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="391" pc="268445117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="391" pc="268445128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="393" pc="268445229" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="394" pc="268445316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="395" pc="268445403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="396" pc="268445489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="397" pc="268445575" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="398" pc="268445661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="399" pc="268445747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="400" pc="268445833" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="401" pc="268445917" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="402" pc="268446004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="403" pc="268446092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="404" pc="268446181" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="405" pc="268446270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="406" pc="268446359" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="407" pc="268446448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="411" pc="268446506" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="411" pc="268446517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="413" pc="268446606" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="414" pc="268446681" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="416" pc="268446745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="423" pc="268446810" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="424" pc="268446814" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="426" pc="268446840" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="428" pc="268446857" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="430" pc="268446913" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="431" pc="268446913" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="432" pc="268446913" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="433" pc="268446929" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="434" pc="268446939" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="435" pc="268446949" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="436" pc="268446969" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="439" pc="268446991" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="440" pc="268446998" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="441" pc="268447016" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="442" pc="268447027" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="443" pc="268447037" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="446" pc="268447047" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="448" pc="268447054" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="448" pc="268447065" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="449" pc="268447075" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="450" pc="268447127" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="453" pc="268447182" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="454" pc="268447234" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="458" pc="268447286" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="459" pc="268447293" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="459" pc="268447310" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="460" pc="268447320" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="461" pc="268447346" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="462" pc="268447377" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="463" pc="268447412" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="464" pc="268447423" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="467" pc="268447509" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="470" pc="268447584" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="471" pc="268447595" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="472" pc="268447621" symbol="drawTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="480" pc="268447688" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="482" pc="268447692" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="483" pc="268447716" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="484" pc="268447716" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="485" pc="268447716" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="486" pc="268447723" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="487" pc="268447730" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="489" pc="268447730" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="490" pc="268447755" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="492" pc="268447762" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="493" pc="268447796" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="497" pc="268447833" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="498" pc="268447871" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="499" pc="268447906" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="500" pc="268447944" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="506" pc="268447979" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="509" pc="268447996" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="510" pc="268448048" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="511" pc="268448093" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="513" pc="268448138" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="514" pc="268448169" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="519" pc="268448200" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="520" pc="268448207" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="521" pc="268448225" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="522" pc="268448242" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="523" pc="268448264" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="526" pc="268448274" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="528" pc="268448281" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="528" pc="268448298" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="529" pc="268448314" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="532" pc="268448391" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="534" pc="268448465" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="534" pc="268448484" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="535" pc="268448497" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="535" pc="268448516" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="538" pc="268448529" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="539" pc="268448536" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="540" pc="268448554" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="541" pc="268448571" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="542" pc="268448593" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="545" pc="268448603" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="547" pc="268448610" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="547" pc="268448627" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="548" pc="268448643" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="551" pc="268448720" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="553" pc="268448794" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="553" pc="268448813" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="554" pc="268448826" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="554" pc="268448845" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="557" pc="268448861" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="558" pc="268448868" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="558" pc="268448874" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="559" pc="268448884" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="560" pc="268448906" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="561" pc="268448938" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="566" pc="268448971" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="568" pc="268448975" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="569" pc="268449011" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="570" pc="268449054" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="572" pc="268449061" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="573" pc="268449074" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="574" pc="268449087" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="576" pc="268449106" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="578" pc="268449111" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="579" pc="268449127" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="581" pc="268449149" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="582" pc="268449165" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="584" pc="268449187" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="585" pc="268449194" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="586" pc="268449198" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="587" pc="268449202" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="589" pc="268449206" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="591" pc="268449237" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="594" pc="268449265" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="596" pc="268449299" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="597" pc="268449299" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="598" pc="268449306" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="599" pc="268449313" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="600" pc="268449335" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="601" pc="268449335" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="603" pc="268449335" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="606" pc="268449339" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="608" pc="268449354" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="609" pc="268449361" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="611" pc="268449368" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="614" pc="268449374" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="616" pc="268449395" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="617" pc="268449399" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="621" pc="268449406" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="623" pc="268449423" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="624" pc="268449436" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="626" pc="268449443" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="627" pc="268449453" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="629" pc="268449460" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="631" pc="268449471" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="632" pc="268449475" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="636" pc="268449482" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="637" pc="268449490" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="639" pc="268449497" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="640" pc="268449505" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="645" pc="268449515" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="646" pc="268449537" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="647" pc="268449556" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="653" pc="268449566" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="658" pc="268449573" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="659" pc="268449581" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="662" pc="268449591" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="664" pc="268449613" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="665" pc="268449626" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="667" pc="268449672" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="668" pc="268449709" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="669" pc="268449740" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="671" pc="268449753" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="672" pc="268449779" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="673" pc="268449783" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="676" pc="268449787" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="677" pc="268449802" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="678" pc="268449815" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="679" pc="268449835" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="690" pc="268449874" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="691" pc="268449924" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="692" pc="268449974" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="693" pc="268450021" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="694" pc="268450077" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="695" pc="268450139" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="697" pc="268450201" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="698" pc="268450269" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="699" pc="268450331" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="700" pc="268450336" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="701" pc="268450354" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="702" pc="268450393" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="704" pc="268450432" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="712" pc="268450503" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="713" pc="268450539" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="714" pc="268450590" symbol="drawHRgraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="723" pc="268450642" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="724" pc="268450646" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="725" pc="268450678" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="726" pc="268450685" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="727" pc="268450711" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="728" pc="268450718" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="728" pc="268450729" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="729" pc="268450742" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="730" pc="268450760" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="732" pc="268450776" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="735" pc="268450783" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="736" pc="268450794" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="738" pc="268450824" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="740" pc="268450843" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="746" pc="268450876" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="747" pc="268450880" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="748" pc="268450899" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="749" pc="268450924" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="753" pc="268450931" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="753" pc="268450970" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="754" pc="268450980" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="754" pc="268451013" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="755" pc="268451023" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="757" pc="268451034" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="758" pc="268451059" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="758" pc="268451064" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="761" pc="268451088" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="761" pc="268451093" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="764" pc="268451117" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="765" pc="268451136" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="765" pc="268451141" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="767" pc="268451165" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="768" pc="268451184" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="768" pc="268451189" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="771" pc="268451202" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="772" pc="268451220" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="773" pc="268451246" symbol="drawDistance"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="777" pc="268451291" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="778" pc="268451295" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="779" pc="268451314" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="780" pc="268451333" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="781" pc="268451343" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="782" pc="268451353" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="783" pc="268451360" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="784" pc="268451367" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="785" pc="268451367" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="787" pc="268451374" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="787" pc="268451394" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="790" pc="268451404" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="791" pc="268451431" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="792" pc="268451447" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="794" pc="268451476" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="795" pc="268451489" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="797" pc="268451502" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="798" pc="268451527" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="799" pc="268451532" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="801" pc="268451554" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="805" pc="268451567" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="806" pc="268451572" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="808" pc="268451594" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="811" pc="268451604" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="812" pc="268451630" symbol="drawStepsWeekGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="815" pc="268451663" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="817" pc="268451667" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="818" pc="268451667" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="819" pc="268451690" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="820" pc="268451697" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="821" pc="268451704" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="821" pc="268451712" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="822" pc="268451725" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="822" pc="268451733" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="823" pc="268451746" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="823" pc="268451754" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="825" pc="268451767" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="826" pc="268451775" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="827" pc="268451795" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="828" pc="268451803" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="829" pc="268451842" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="831" pc="268451881" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="835" pc="268451920" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="836" pc="268451959" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="838" pc="268451998" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="842" pc="268452037" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="843" pc="268452055" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="845" pc="268452094" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="849" pc="268452130" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="849" pc="268452141" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="850" pc="268452151" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="850" pc="268452162" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="851" pc="268452172" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="851" pc="268452183" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="853" pc="268452193" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="856" pc="268452240" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="858" pc="268452248" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="859" pc="268452271" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="861" pc="268452279" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="862" pc="268452318" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="864" pc="268452357" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="869" pc="268452396" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="870" pc="268452435" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="872" pc="268452474" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="877" pc="268452513" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="878" pc="268452531" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="880" pc="268452570" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="883" pc="268452606" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="883" pc="268452617" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="884" pc="268452627" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="884" pc="268452638" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="885" pc="268452648" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="885" pc="268452659" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="887" pc="268452669" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="889" pc="268452716" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="890" pc="268452724" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="891" pc="268452747" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="893" pc="268452755" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="894" pc="268452773" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="896" pc="268452812" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="902" pc="268452851" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="903" pc="268452890" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="905" pc="268452929" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="911" pc="268452968" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="912" pc="268452986" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="914" pc="268453025" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="918" pc="268453061" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="918" pc="268453072" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="919" pc="268453082" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="919" pc="268453093" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="920" pc="268453103" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="920" pc="268453114" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="922" pc="268453124" symbol="drawIcons"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="926" pc="268453172" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="928" pc="268453176" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="929" pc="268453207" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="929" pc="268453218" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="930" pc="268453239" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="931" pc="268453249" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="933" pc="268453256" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="935" pc="268453282" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="936" pc="268453307" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="937" pc="268453326" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="938" pc="268453345" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="939" pc="268453364" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="940" pc="268453371" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="941" pc="268453381" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="942" pc="268453391" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="943" pc="268453398" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="947" pc="268453405" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="948" pc="268453429" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="949" pc="268453446" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="951" pc="268453462" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="952" pc="268453479" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="955" pc="268453495" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="956" pc="268453512" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="957" pc="268453525" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="961" pc="268453551" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="962" pc="268453565" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="964" pc="268453578" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="965" pc="268453592" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="967" pc="268453605" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="968" pc="268453619" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="969" pc="268453629" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="975" pc="268453639" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="976" pc="268453646" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="976" pc="268453657" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="977" pc="268453667" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="978" pc="268453667" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="979" pc="268453667" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="984" pc="268453689" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="991" pc="268454533" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="992" pc="268454533" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="993" pc="268454557" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="994" pc="268454591" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="996" pc="268454625" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="997" pc="268454630" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="998" pc="268454641" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="999" pc="268454654" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1000" pc="268454665" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1002" pc="268454715" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1004" pc="268454765" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1006" pc="268454815" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1008" pc="268454865" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1010" pc="268454915" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1012" pc="268454965" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1015" pc="268455007" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1021" pc="268455046" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1022" pc="268455054" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1023" pc="268455064" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1025" pc="268455071" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1026" pc="268455089" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1027" pc="268455097" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1028" pc="268455108" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1033" pc="268455140" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1034" pc="268455158" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1036" pc="268455197" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1042" pc="268455233" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1043" pc="268455244" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1046" pc="268455338" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1047" pc="268455356" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1052" pc="268455453" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1053" pc="268455461" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1056" pc="268455487" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1057" pc="268455498" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1058" pc="268455575" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1061" pc="268455669" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1062" pc="268455746" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1065" pc="268455832" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1066" pc="268455858" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1070" pc="268455954" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1071" pc="268455961" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1072" pc="268455968" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1073" pc="268455973" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1074" pc="268455984" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1075" pc="268455997" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1076" pc="268456008" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1078" pc="268456058" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1080" pc="268456108" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1082" pc="268456158" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1084" pc="268456208" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1086" pc="268456258" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1088" pc="268456308" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1091" pc="268456350" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1099" pc="268456389" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1100" pc="268456397" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1101" pc="268456407" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1103" pc="268456414" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1104" pc="268456432" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1105" pc="268456440" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1106" pc="268456451" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1111" pc="268456483" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1112" pc="268456501" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1114" pc="268456540" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1118" pc="268456576" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1119" pc="268456587" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1122" pc="268456669" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1123" pc="268456687" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1127" pc="268456778" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1128" pc="268456804" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1129" pc="268456815" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1130" pc="268456826" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1131" pc="268456897" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1134" pc="268456985" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1135" pc="268457056" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1139" pc="268457136" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1141" pc="268457204" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1142" pc="268457230" symbol="drawStepsGraph"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1145" pc="268457257" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1146" pc="268457261" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1147" pc="268457317" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1149" pc="268457373" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1150" pc="268457399" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1151" pc="268457399" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1159" pc="268458243" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1160" pc="268458254" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1160" pc="268458265" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1161" pc="268458304" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1162" pc="268458343" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1163" pc="268458382" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1164" pc="268458410" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1168" pc="268458438" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1169" pc="268458456" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1170" pc="268458467" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1173" pc="268458534" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1176" pc="268458592" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1177" pc="268458603" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1180" pc="268458676" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1184" pc="268458737" symbol="drawDate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1188" pc="268458770" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1189" pc="268458774" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1190" pc="268458800" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1192" pc="268458819" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1193" pc="268458829" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1196" pc="268458839" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1196" pc="268458850" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1197" pc="268458860" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1198" pc="268458882" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1199" pc="268458889" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1200" pc="268458894" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1202" pc="268458904" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1203" pc="268458920" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1205" pc="268458946" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1206" pc="268458951" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1207" pc="268458962" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1209" pc="268459012" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1211" pc="268459062" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1213" pc="268459112" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1215" pc="268459162" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1217" pc="268459212" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1219" pc="268459262" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1223" pc="268459304" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1224" pc="268459322" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1226" pc="268459361" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1230" pc="268459397" symbol="drawSteps"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1233" pc="268459430" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1234" pc="268459434" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1235" pc="268459460" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1236" pc="268459479" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1239" pc="268459489" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1240" pc="268459570" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1240" pc="268459581" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1240" pc="268459591" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1240" pc="268459596" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1241" pc="268459639" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1241" pc="268459649" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1241" pc="268459654" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1242" pc="268459697" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1242" pc="268459707" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1242" pc="268459712" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1243" pc="268459755" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1243" pc="268459765" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1243" pc="268459770" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1244" pc="268459823" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1244" pc="268459833" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1244" pc="268459838" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1245" pc="268459891" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1245" pc="268459901" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1245" pc="268459906" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1248" pc="268459951" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1248" pc="268459962" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1248" pc="268459972" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1248" pc="268459977" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1249" pc="268460030" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1249" pc="268460040" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1249" pc="268460045" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1250" pc="268460098" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1250" pc="268460108" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1250" pc="268460113" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1251" pc="268460166" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1251" pc="268460176" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1251" pc="268460181" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1252" pc="268460234" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1252" pc="268460244" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1252" pc="268460249" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1253" pc="268460302" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1253" pc="268460312" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1253" pc="268460317" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1256" pc="268460359" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1256" pc="268460370" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1257" pc="268460399" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1257" pc="268460410" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1258" pc="268460445" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1258" pc="268460456" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1259" pc="268460491" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1259" pc="268460502" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1260" pc="268460537" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1260" pc="268460548" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1261" pc="268460580" symbol="drawMoveBar"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1283" pc="268460646" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1284" pc="268460650" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1285" pc="268460676" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1288" pc="268460695" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1290" pc="268460705" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1291" pc="268460712" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1293" pc="268460731" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1294" pc="268460738" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1295" pc="268460738" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1296" pc="268460743" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1298" pc="268460750" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1298" pc="268460770" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1301" pc="268460780" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1302" pc="268460807" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1305" pc="268460839" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1307" pc="268460852" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1308" pc="268460857" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1310" pc="268460867" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1311" pc="268460874" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1312" pc="268460900" symbol="drawKkal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1316" pc="268460933" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1317" pc="268460937" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1319" pc="268460956" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1320" pc="268460966" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1323" pc="268460976" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1323" pc="268460987" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1324" pc="268460997" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1326" pc="268461019" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1327" pc="268461026" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1328" pc="268461033" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1329" pc="268461072" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1330" pc="268461079" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1332" pc="268461089" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1334" pc="268461129" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1335" pc="268461134" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1336" pc="268461145" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1338" pc="268461195" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1340" pc="268461245" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1342" pc="268461295" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1344" pc="268461345" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1346" pc="268461395" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1348" pc="268461434" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1351" pc="268461473" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1354" pc="268461499" symbol="drawStepsGoal"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1358" pc="268461532" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1359" pc="268461536" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1360" pc="268461562" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1361" pc="268461569" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1363" pc="268461600" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1363" pc="268461611" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1364" pc="268461632" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1365" pc="268461653" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1366" pc="268461674" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1367" pc="268461695" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1368" pc="268461716" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1369" pc="268461737" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1370" pc="268461758" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1371" pc="268461779" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1372" pc="268461800" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1373" pc="268461821" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1374" pc="268461842" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1375" pc="268461863" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1376" pc="268461884" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1377" pc="268461905" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1378" pc="268461926" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1379" pc="268461947" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1380" pc="268461968" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1381" pc="268461989" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1382" pc="268462010" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1383" pc="268462031" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1384" pc="268462052" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1385" pc="268462073" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1386" pc="268462094" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1387" pc="268462115" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1388" pc="268462136" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1389" pc="268462157" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1390" pc="268462178" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1391" pc="268462199" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1392" pc="268462220" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1393" pc="268462241" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1394" pc="268462262" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1395" pc="268462283" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1396" pc="268462304" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1397" pc="268462325" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1398" pc="268462346" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1399" pc="268462367" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1400" pc="268462388" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1401" pc="268462409" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1403" pc="268462419" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1404" pc="268462436" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1405" pc="268462486" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1407" pc="268462502" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1408" pc="268462513" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1412" pc="268462524" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1412" pc="268462550" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1413" pc="268462586" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1414" pc="268462628" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1419" pc="268462652" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1423" pc="268462665" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1424" pc="268462676" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1427" pc="268462703" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1427" pc="268462711" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1428" pc="268462727" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1428" pc="268462735" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1432" pc="268462748" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1433" pc="268462761" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1436" pc="268462783" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1437" pc="268462783" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1438" pc="268462783" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1439" pc="268462793" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1440" pc="268462803" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1441" pc="268462810" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1443" pc="268462817" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1444" pc="268462824" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1447" pc="268462831" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1448" pc="268462842" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1449" pc="268462852" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1452" pc="268462876" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1453" pc="268462886" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1458" pc="268462899" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1461" pc="268462917" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1462" pc="268462956" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1463" pc="268462967" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1464" pc="268462977" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1467" pc="268462987" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1469" pc="268462997" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1473" pc="268463007" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1474" pc="268463018" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1475" pc="268463028" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1477" pc="268463038" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1480" pc="268463045" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1481" pc="268463084" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1482" pc="268463095" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1483" pc="268463105" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1486" pc="268463115" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1487" pc="268463125" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1489" pc="268463132" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1493" pc="268463153" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1494" pc="268463160" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1495" pc="268463170" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1499" pc="268463180" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1499" pc="268463191" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1500" pc="268463201" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1501" pc="268463253" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1504" pc="268463308" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1505" pc="268463319" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1506" pc="268463329" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1509" pc="268463350" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1510" pc="268463360" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1512" pc="268463370" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1513" pc="268463422" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1518" pc="268463474" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1521" pc="268463500" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1521" pc="268463511" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1523" pc="268463521" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1524" pc="268463534" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1525" pc="268463581" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1526" pc="268463599" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1528" pc="268463643" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1529" pc="268463690" symbol="drawWorldTime"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1535" pc="268463747" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1536" pc="268463751" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1537" pc="268463801" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1539" pc="268463801" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1540" pc="268463811" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1541" pc="268463850" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1542" pc="268463868" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1543" pc="268463893" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1544" pc="268463893" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1545" pc="268463909" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1546" pc="268463916" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1547" pc="268463984" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1548" pc="268464052" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1549" pc="268464120" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1550" pc="268464188" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1551" pc="268464227" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1551" pc="268464235" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1552" pc="268464274" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1552" pc="268464288" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1554" pc="268464330" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1554" pc="268464338" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1555" pc="268464377" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1555" pc="268464391" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1557" pc="268464430" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1557" pc="268464444" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1558" pc="268464483" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1558" pc="268464497" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1559" pc="268464536" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1559" pc="268464550" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1560" pc="268464589" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1563" pc="268464755" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1564" pc="268464771" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1567" pc="268464882" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1568" pc="268464899" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1569" pc="268464917" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1571" pc="268464942" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1572" pc="268464960" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1574" pc="268464999" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1578" pc="268465035" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1579" pc="268465035" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1589" pc="268465051" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1593" pc="268465151" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1594" pc="268465168" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1595" pc="268465184" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1599" pc="268465295" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1600" pc="268465313" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1601" pc="268465332" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1602" pc="268465368" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1603" pc="268465368" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1604" pc="268465384" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1605" pc="268465391" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1606" pc="268465459" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1607" pc="268465527" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1608" pc="268465595" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1609" pc="268465663" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1610" pc="268465681" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1612" pc="268465720" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1614" pc="268465756" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1617" pc="268465922" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1618" pc="268465938" symbol="drawSec"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1624" pc="268466011" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1626" pc="268466015" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1627" pc="268466038" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1634" pc="268466051" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1634" pc="268466071" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1635" pc="268466081" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1636" pc="268466106" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1637" pc="268466116" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1638" pc="268466152" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1641" pc="268466178" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1642" pc="268466196" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1644" pc="268466235" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1647" pc="268466271" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1648" pc="268466309" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1651" pc="268466338" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1652" pc="268466349" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1653" pc="268466360" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1654" pc="268466396" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1655" pc="268466434" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1655" pc="268466445" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1656" pc="268466486" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1656" pc="268466497" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1657" pc="268466538" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1657" pc="268466549" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1658" pc="268466590" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1658" pc="268466601" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1659" pc="268466642" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1659" pc="268466653" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1660" pc="268466691" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1661" pc="268466727" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1664" pc="268466803" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1665" pc="268466839" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1665" pc="268466850" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1666" pc="268466891" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1667" pc="268466927" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1667" pc="268466938" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1668" pc="268466979" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1669" pc="268467015" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1669" pc="268467026" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1670" pc="268467067" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1671" pc="268467103" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1671" pc="268467114" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1673" pc="268467155" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1675" pc="268467225" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1676" pc="268467236" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1677" pc="268467272" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1682" pc="268467342" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1684" pc="268467353" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1685" pc="268467427" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1686" pc="268467438" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1687" pc="268467464" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1691" pc="268467523" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1692" pc="268467562" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1694" pc="268467601" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1697" pc="268467637" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1702" pc="268467708" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1702" pc="268467719" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1703" pc="268467758" symbol="drawbatt"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1711" pc="268467803" symbol="onHide"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1715" pc="268467808" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1716" pc="268467812" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1717" pc="268467822" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1721" pc="268467839" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1722" pc="268467843" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1723" pc="268467853" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1760" pc="268467870" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1761" pc="268467874" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1762" pc="268467883" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1765" pc="268467893" symbol="fromJulian"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1766" pc="268467897" symbol="fromJulian"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1769" pc="268467951" symbol="round"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1770" pc="268467955" symbol="round"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1771" pc="268467966" symbol="round"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1773" pc="268467996" symbol="round"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1778" pc="268468024" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1779" pc="268468028" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1780" pc="268468083" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1781" pc="268468114" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1783" pc="268468156" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1784" pc="268468199" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1785" pc="268468227" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1786" pc="268468258" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1787" pc="268468361" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1788" pc="268468401" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1789" pc="268468438" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1790" pc="268468490" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1791" pc="268468545" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1792" pc="268468555" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1795" pc="268468568" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1796" pc="268468582" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1799" pc="268468605" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1801" pc="268468717" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1802" pc="268468742" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1805" pc="268468747" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1807" pc="268468802" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1808" pc="268468845" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1809" pc="268468859" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1812" pc="268468876" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreView.mc" lineNum="1814" pc="268468898" symbol="calculate"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreBackground.mc" lineNum="7" pc="268468913" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreBackground.mc" lineNum="8" pc="268468917" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreBackground.mc" lineNum="12" pc="268468938" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreBackground.mc" lineNum="15" pc="268468959" symbol="draw"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreBackground.mc" lineNum="17" pc="268468963" symbol="draw"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreBackground.mc" lineNum="18" pc="268469016" symbol="draw"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="6" pc="268469029" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="7" pc="268469033" symbol="initialize"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="11" pc="268469052" symbol="onStart"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="15" pc="268469057" symbol="onStop"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="19" pc="268469062" symbol="getInitialView"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="20" pc="268469066" symbol="getInitialView"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="24" pc="268469104" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\weekendwarrior\\workspace\\FenixCore\\source\\FenixCoreApp.mc" lineNum="25" pc="268469108" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="138" pc="268469125" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="140" pc="268469129" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="141" pc="268469153" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="142" pc="268469316" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="143" pc="268469341" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="144" pc="268469393" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="147" pc="268469439" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="188" symbol="a9"/>
+<entry field="true" id="187" symbol="a8"/>
+<entry field="true" id="185" symbol="a7"/>
+<entry field="true" id="184" symbol="a6"/>
+<entry field="true" id="183" symbol="a5"/>
+<entry field="true" id="181" symbol="a4"/>
+<entry field="true" id="180" symbol="a3"/>
+<entry field="true" id="179" symbol="a2"/>
+<entry field="true" id="178" symbol="a1"/>
+<entry field="true" id="82" symbol="german"/>
+<entry field="true" id="42" symbol="fgc"/>
+<entry id="8389719" method="true" symbol="round"/>
+<entry field="true" id="23" symbol="NUM_RESULTS"/>
+<entry field="true" id="9" symbol="NAUTICAL_DAWN"/>
+<entry field="true" id="143" symbol="lastline"/>
+<entry field="true" id="83" symbol="lowline"/>
+<entry field="true" id="158" symbol="hrdetail"/>
+<entry field="true" id="125" symbol="black"/>
+<entry field="true" id="74" symbol="id_font_half"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="168" symbol="dkgray"/>
+<entry field="true" id="132" symbol="lowlinecolor"/>
+<entry field="true" id="31" symbol="fontminbold"/>
+<entry field="true" id="182" symbol="bluetooth"/>
+<entry field="true" id="99" symbol="fourbars"/>
+<entry field="true" id="94" symbol="utchide"/>
+<entry id="191" symbol="DAYS"/>
+<entry field="true" id="73" symbol="id_font_corebig"/>
+<entry field="true" id="155" symbol="worldtime"/>
+<entry field="true" id="11" symbol="BLUE_HOUR_AM"/>
+<entry field="true" id="10" symbol="DAWN"/>
+<entry field="true" id="148" symbol="a39"/>
+<entry field="true" id="149" symbol="a38"/>
+<entry field="true" id="145" symbol="a37"/>
+<entry field="true" id="147" symbol="a36"/>
+<entry field="true" id="141" symbol="a35"/>
+<entry field="true" id="142" symbol="a34"/>
+<entry field="true" id="138" symbol="a33"/>
+<entry field="true" id="139" symbol="a32"/>
+<entry field="true" id="133" symbol="a31"/>
+<entry field="true" id="134" symbol="a30"/>
+<entry field="true" id="76" symbol="id_font_tiny"/>
+<entry id="68" method="true" symbol="drawbatt"/>
+<entry field="true" id="127" symbol="a29"/>
+<entry field="true" id="123" symbol="a28"/>
+<entry field="true" id="124" symbol="a27"/>
+<entry field="true" id="121" symbol="a26"/>
+<entry field="true" id="122" symbol="a25"/>
+<entry field="true" id="119" symbol="a24"/>
+<entry field="true" id="120" symbol="a23"/>
+<entry field="true" id="116" symbol="a22"/>
+<entry field="true" id="117" symbol="a21"/>
+<entry field="true" id="115" symbol="a20"/>
+<entry field="true" id="108" symbol="a19"/>
+<entry field="true" id="109" symbol="a18"/>
+<entry field="true" id="106" symbol="a17"/>
+<entry field="true" id="107" symbol="a16"/>
+<entry field="true" id="104" symbol="a15"/>
+<entry field="true" id="105" symbol="a14"/>
+<entry field="true" id="102" symbol="a13"/>
+<entry field="true" id="103" symbol="a12"/>
+<entry field="true" id="98" symbol="a11"/>
+<entry field="true" id="100" symbol="a10"/>
+<entry field="true" id="131" symbol="uplinecolor"/>
+<entry field="true" id="12" symbol="SUNRISE"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="61" method="true" symbol="drawDate"/>
+<entry field="true" id="91" symbol="russian"/>
+<entry field="true" id="89" symbol="secindicator"/>
+<entry field="true" id="86" symbol="english"/>
+<entry id="8388893" symbol="PI"/>
+<entry field="true" id="156" symbol="utc"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="16" symbol="GOLDEN_HOUR_PM"/>
+<entry id="8388643" symbol="Sensor"/>
+<entry field="true" id="176" symbol="hrgrob"/>
+<entry field="true" id="95" symbol="ltgray"/>
+<entry id="190" symbol="PI2"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="154" symbol="btalarm"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="194" symbol="J0"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="170" symbol="dkblue"/>
+<entry field="true" id="43" symbol="bgc"/>
+<entry field="true" id="151" symbol="red"/>
+<entry id="195" symbol="TIMES"/>
+<entry id="207" method="true" symbol="fromJulian"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="65" method="true" symbol="drawStepsGoal"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="112" symbol="stepsweekgoal"/>
+<entry field="true" id="204" symbol="sin2L"/>
+<entry id="64" method="true" symbol="drawKkal"/>
+<entry id="50" object="true" symbol="SunCalc"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="97" symbol="stepgraphline"/>
+<entry field="true" id="130" symbol="blue"/>
+<entry field="true" id="161" symbol="dkgreen"/>
+<entry field="true" id="72" symbol="id_font_big"/>
+<entry field="true" id="14" symbol="GOLDEN_HOUR_AM"/>
+<entry field="true" id="26" symbol="fontbig"/>
+<entry field="true" id="8" symbol="NIGHT_END"/>
+<entry field="true" id="136" symbol="date"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="166" symbol="AppName"/>
+<entry field="true" id="34" symbol="fontmintxt"/>
+<entry field="true" id="25" symbol="LON"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="75" symbol="id_font_norm"/>
+<entry field="true" id="201" symbol="sinM"/>
+<entry field="true" id="85" symbol="altitudem"/>
+<entry field="true" id="48" symbol="barreduce"/>
+<entry id="66" method="true" symbol="drawWorldTime"/>
+<entry field="true" id="29" symbol="fonthalf"/>
+<entry field="true" id="162" symbol="fivedots"/>
+<entry field="true" id="44" symbol="heartNow"/>
+<entry field="true" id="22" symbol="NIGHT"/>
+<entry id="51" object="true" symbol="Background"/>
+<entry field="true" id="157" symbol="bold"/>
+<entry field="true" id="135" symbol="CORE"/>
+<entry id="8388641" symbol="Math"/>
+<entry id="208" method="true" symbol="calculate"/>
+<entry field="true" id="77" symbol="id_font_xtiny"/>
+<entry id="8389809" symbol="order"/>
+<entry field="true" id="71" symbol="LauncherIcon"/>
+<entry field="true" id="32" symbol="fonttiny"/>
+<entry id="53" method="true" symbol="drawTime"/>
+<entry field="true" id="84" symbol="upline"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="206" symbol="Jnoon"/>
+<entry field="true" id="101" symbol="pink"/>
+<entry field="true" id="160" symbol="kkal"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="24" symbol="LAT"/>
+<entry id="58" method="true" symbol="drawStepsWeekGoal"/>
+<entry field="true" id="41" symbol="foreground"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="114" symbol="stepgraphdot"/>
+<entry field="true" id="79" symbol="id_font_minbold"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="186" symbol="kkalweek"/>
+<entry id="54" method="true" symbol="drawSunriseSunset"/>
+<entry field="true" id="27" symbol="fontcorebig"/>
+<entry id="62" method="true" symbol="drawSteps"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="171" symbol="alarm"/>
+<entry field="true" id="18" symbol="SUNSET"/>
+<entry id="59" method="true" symbol="drawIcons"/>
+<entry field="true" id="37" symbol="watch"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="57" method="true" symbol="drawDistance"/>
+<entry id="8389348" symbol="font"/>
+<entry id="49" object="true" symbol="FenixCoreView"/>
+<entry field="true" id="205" symbol="dec"/>
+<entry id="189" symbol="RAD"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="81" symbol="batteryno"/>
+<entry field="true" id="173" symbol="datemid"/>
+<entry field="true" id="90" symbol="MEDIUM"/>
+<entry field="true" id="159" symbol="dateshort"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="192" symbol="J1970"/>
+<entry field="true" id="196" symbol="lastD"/>
+<entry id="63" method="true" symbol="drawMoveBar"/>
+<entry field="true" id="13" symbol="SUNRISE_END"/>
+<entry id="56" method="true" symbol="drawAltitude"/>
+<entry field="true" id="110" symbol="altitudeft"/>
+<entry id="70" module="true" symbol="Layouts"/>
+<entry id="60" method="true" symbol="drawStepsGraph"/>
+<entry field="true" id="33" symbol="fontxtiny"/>
+<entry field="true" id="8388912" symbol="steps"/>
+<entry field="true" id="28" symbol="fontnorm"/>
+<entry field="true" id="150" symbol="language"/>
+<entry field="true" id="111" symbol="sun"/>
+<entry field="true" id="15" symbol="NOON"/>
+<entry field="true" id="164" symbol="toplinecolor"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="21" symbol="NAUTICAL_DUSK"/>
+<entry field="true" id="88" symbol="french"/>
+<entry field="true" id="129" symbol="VERYSMALL"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry field="true" id="45" symbol="heartMin"/>
+<entry field="true" id="174" symbol="stepsweek"/>
+<entry field="true" id="140" symbol="btalarmmessages"/>
+<entry field="true" id="40" symbol="setWF"/>
+<entry id="67" method="true" symbol="drawSec"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="153" symbol="mi"/>
+<entry id="8389063" symbol="identifier"/>
+<entry field="true" id="78" symbol="id_font_min"/>
+<entry field="true" id="113" symbol="SMALL"/>
+<entry field="true" id="118" symbol="km"/>
+<entry field="true" id="167" symbol="topline"/>
+<entry field="true" id="20" symbol="DUSK"/>
+<entry field="true" id="126" symbol="lastlineactive"/>
+<entry field="true" id="172" symbol="lastlinecolor"/>
+<entry field="true" id="93" symbol="DOT"/>
+<entry id="69" module="true" symbol="Menus"/>
+<entry field="true" id="46" symbol="heartMax"/>
+<entry field="true" id="36" symbol="fast_updates"/>
+<entry field="true" id="177" symbol="hrmiddle"/>
+<entry field="true" id="96" symbol="messages"/>
+<entry field="true" id="30" symbol="fontmin"/>
+<entry field="true" id="38" symbol="dateStrings"/>
+<entry field="true" id="35" symbol="device_settings"/>
+<entry id="52" object="true" symbol="FenixCoreApp"/>
+<entry id="193" symbol="J2000"/>
+<entry field="true" id="144" symbol="onedot"/>
+<entry field="true" id="169" symbol="watchfont"/>
+<entry field="true" id="165" symbol="ft"/>
+<entry field="true" id="146" symbol="stepsgoal"/>
+<entry field="true" id="199" symbol="ds"/>
+<entry field="true" id="19" symbol="BLUE_HOUR_PM"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="175" symbol="green"/>
+<entry field="true" id="198" symbol="n"/>
+<entry field="true" id="163" symbol="movebar"/>
+<entry field="true" id="128" symbol="m"/>
+<entry field="true" id="39" symbol="dateStringsshort"/>
+<entry field="true" id="137" symbol="standard"/>
+<entry field="true" id="197" symbol="lastLng"/>
+<entry field="true" id="87" symbol="dkred"/>
+<entry field="true" id="17" symbol="SUNSET_START"/>
+<entry field="true" id="47" symbol="yFRoffdown"/>
+<entry field="true" id="200" symbol="M"/>
+<entry id="55" method="true" symbol="drawHRgraph"/>
+<entry field="true" id="203" symbol="L"/>
+<entry field="true" id="202" symbol="C"/>
+<entry field="true" id="92" symbol="nothing"/>
+<entry field="true" id="80" symbol="id_font_min_txt"/>
+<entry field="true" id="152" symbol="white"/>
+</symbolTable>
+<localVars>
+<entry endPc="268446806" name="lastline" stackId="20" startPc="268445038"/>
+<entry endPc="268446806" name="lastlinecolor" stackId="21" startPc="268445038"/>
+<entry endPc="268446809" name="lowline" stackId="17" startPc="268436204"/>
+<entry endPc="268446809" name="watchmainfont" stackId="11" startPc="268436204"/>
+<entry endPc="268446809" name="secindicator" stackId="4" startPc="268436204"/>
+<entry endPc="268446809" name="hour" stackId="6" startPc="268436204"/>
+<entry endPc="268446809" name="time" stackId="8" startPc="268436204"/>
+<entry endPc="268446809" name="lowlinecolor" stackId="18" startPc="268436204"/>
+<entry endPc="268446809" name="isbold" stackId="3" startPc="268436204"/>
+<entry endPc="268446809" name="uplinecolor" stackId="16" startPc="268436204"/>
+<entry endPc="268446809" name="clockTime" stackId="5" startPc="268436204"/>
+<entry endPc="268446809" name="language" stackId="12" startPc="268436204"/>
+<entry endPc="268446809" name="min" stackId="7" startPc="268436204"/>
+<entry endPc="268446809" name="topline" stackId="13" startPc="268436204"/>
+<entry endPc="268446809" name="lastlineactive" stackId="19" startPc="268436204"/>
+<entry endPc="268446809" name="day" stackId="9" startPc="268436204"/>
+<entry endPc="268446809" name="toplinecolor" stackId="14" startPc="268436204"/>
+<entry endPc="268446809" name="sec" stackId="10" startPc="268436204"/>
+<entry endPc="268446809" name="fontminvari" stackId="2" startPc="268436204"/>
+<entry endPc="268446809" name="upline" stackId="15" startPc="268436204"/>
+<entry endPc="268447687" name="time" stackId="14" startPc="268446814"/>
+<entry endPc="268447687" name="clockTime" stackId="10" startPc="268446814"/>
+<entry endPc="268447687" name="hour" stackId="12" startPc="268446814"/>
+<entry endPc="268447687" name="min" stackId="13" startPc="268446814"/>
+<entry endPc="268447687" name="sec" stackId="11" startPc="268446814"/>
+<entry endPc="268447687" name="einer" stackId="18" startPc="268446814"/>
+<entry endPc="268447687" name="ampm" stackId="17" startPc="268446814"/>
+<entry endPc="268447687" name="day" stackId="15" startPc="268446814"/>
+<entry endPc="268447687" name="time_string" stackId="16" startPc="268446814"/>
+<entry endPc="268448858" name="ampm" stackId="20" startPc="268447996"/>
+<entry endPc="268448858" name="now" stackId="15" startPc="268447996"/>
+<entry endPc="268448858" name="timeInfoSunrise" stackId="18" startPc="268447996"/>
+<entry endPc="268448858" name="timeInfoSunset" stackId="19" startPc="268447996"/>
+<entry endPc="268448858" name="sunrise_moment" stackId="16" startPc="268447996"/>
+<entry endPc="268448858" name="sunset_moment" stackId="17" startPc="268447996"/>
+<entry endPc="268448970" name="space" stackId="21" startPc="268447692"/>
+<entry endPc="268448970" name="lon" stackId="8" startPc="268447692"/>
+<entry endPc="268448970" name="sun_totalstring" stackId="22" startPc="268447692"/>
+<entry endPc="268448970" name="hour" stackId="11" startPc="268447692"/>
+<entry endPc="268448970" name="min" stackId="12" startPc="268447692"/>
+<entry endPc="268448970" name="loc" stackId="14" startPc="268447692"/>
+<entry endPc="268448970" name="sc" stackId="6" startPc="268447692"/>
+<entry endPc="268448970" name="lat" stackId="7" startPc="268447692"/>
+<entry endPc="268448970" name="ampm" stackId="13" startPc="268447692"/>
+<entry endPc="268448970" name="timeStringSet" stackId="10" startPc="268447692"/>
+<entry endPc="268448970" name="timeStringRise" stackId="9" startPc="268447692"/>
+<entry endPc="268449855" name="k" stackId="32" startPc="268449802"/>
+<entry endPc="268449855" name="height" stackId="27" startPc="268449613"/>
+<entry endPc="268449855" name="heartBinMid" stackId="26" startPc="268449613"/>
+<entry endPc="268449855" name="xValstrich" stackId="31" startPc="268449613"/>
+<entry endPc="268449855" name="yValstrich" stackId="30" startPc="268449613"/>
+<entry endPc="268449855" name="yVal" stackId="29" startPc="268449613"/>
+<entry endPc="268449855" name="xVal" stackId="28" startPc="268449613"/>
+<entry endPc="268449874" name="i" stackId="25" startPc="268449354"/>
+<entry endPc="268450494" name="totHeight" stackId="13" startPc="268449111"/>
+<entry endPc="268450494" name="totBins" stackId="16" startPc="268449111"/>
+<entry endPc="268450494" name="finished" stackId="24" startPc="268449111"/>
+<entry endPc="268450494" name="maxSecs" stackId="12" startPc="268449111"/>
+<entry endPc="268450494" name="heartSecs" stackId="18" startPc="268449111"/>
+<entry endPc="268450494" name="heartBinMin" stackId="23" startPc="268449111"/>
+<entry endPc="268450494" name="lastHeartSecs" stackId="21" startPc="268449111"/>
+<entry endPc="268450494" name="secsBin" stackId="20" startPc="268449111"/>
+<entry endPc="268450494" name="binPixels" stackId="15" startPc="268449111"/>
+<entry endPc="268450494" name="binWidthSecs" stackId="17" startPc="268449111"/>
+<entry endPc="268450494" name="heartBinMax" stackId="22" startPc="268449111"/>
+<entry endPc="268450494" name="totWidth" stackId="14" startPc="268449111"/>
+<entry endPc="268450494" name="heartValue" stackId="19" startPc="268449111"/>
+<entry endPc="268450497" name="heart" stackId="11" startPc="268449061"/>
+<entry endPc="268450500" name="sample" stackId="10" startPc="268449011"/>
+<entry endPc="268450875" name="altitude" stackId="8" startPc="268450646"/>
+<entry endPc="268450875" name="altitude_txt" stackId="9" startPc="268450646"/>
+<entry endPc="268451290" name="m" stackId="11" startPc="268450880"/>
+<entry endPc="268451290" name="m_txt" stackId="12" startPc="268450880"/>
+<entry endPc="268451290" name="activity" stackId="10" startPc="268450880"/>
+<entry endPc="268451476" name="i" stackId="17" startPc="268451431"/>
+<entry endPc="268451662" name="totalGoal" stackId="14" startPc="268451295"/>
+<entry endPc="268451662" name="hiscorrect" stackId="16" startPc="268451295"/>
+<entry endPc="268451662" name="steps_print" stackId="15" startPc="268451295"/>
+<entry endPc="268451662" name="acthis" stackId="10" startPc="268451295"/>
+<entry endPc="268451662" name="stepsGoal" stackId="11" startPc="268451295"/>
+<entry endPc="268451662" name="totalSteps" stackId="13" startPc="268451295"/>
+<entry endPc="268451662" name="activity" stackId="9" startPc="268451295"/>
+<entry endPc="268451662" name="stepsLive" stackId="12" startPc="268451295"/>
+<entry endPc="268453171" name="icon_print" stackId="10" startPc="268451667"/>
+<entry endPc="268453171" name="offset" stackId="12" startPc="268451667"/>
+<entry endPc="268453171" name="txt_lenght" stackId="11" startPc="268451667"/>
+<entry endPc="268453551" name="i" stackId="18" startPc="268453429"/>
+<entry endPc="268455437" name="j" stackId="27" startPc="268455356"/>
+<entry endPc="268455453" name="i" stackId="26" startPc="268455089"/>
+<entry endPc="268455954" name="k" stackId="25" startPc="268454557"/>
+<entry endPc="268456762" name="j" stackId="29" startPc="268456687"/>
+<entry endPc="268456778" name="i" stackId="28" startPc="268456432"/>
+<entry endPc="268457256" name="colorproz" stackId="24" startPc="268453176"/>
+<entry endPc="268457256" name="stepsGoal" stackId="14" startPc="268453176"/>
+<entry endPc="268457256" name="activity" stackId="11" startPc="268453176"/>
+<entry endPc="268457256" name="anzsteps" stackId="20" startPc="268453176"/>
+<entry endPc="268457256" name="maxindicator" stackId="16" startPc="268453176"/>
+<entry endPc="268457256" name="language" stackId="10" startPc="268453176"/>
+<entry endPc="268457256" name="weekday" stackId="23" startPc="268453176"/>
+<entry endPc="268457256" name="anzgoal" stackId="21" startPc="268453176"/>
+<entry endPc="268457256" name="stepsLive" stackId="15" startPc="268453176"/>
+<entry endPc="268457256" name="today" stackId="22" startPc="268453176"/>
+<entry endPc="268457256" name="maxsteps" stackId="17" startPc="268453176"/>
+<entry endPc="268457256" name="acthismax" stackId="13" startPc="268453176"/>
+<entry endPc="268457256" name="teiler" stackId="19" startPc="268453176"/>
+<entry endPc="268457256" name="acthis" stackId="12" startPc="268453176"/>
+<entry endPc="268458769" name="datum_print" stackId="9" startPc="268457261"/>
+<entry endPc="268458769" name="weekday" stackId="10" startPc="268457261"/>
+<entry endPc="268459429" name="activproz" stackId="12" startPc="268458774"/>
+<entry endPc="268459429" name="stepsGoal" stackId="10" startPc="268458774"/>
+<entry endPc="268459429" name="steps_txt" stackId="13" startPc="268458774"/>
+<entry endPc="268459429" name="activity" stackId="9" startPc="268458774"/>
+<entry endPc="268459429" name="stepsLive" stackId="11" startPc="268458774"/>
+<entry endPc="268460645" name="activity" stackId="8" startPc="268459434"/>
+<entry endPc="268460645" name="moveBarLevel" stackId="9" startPc="268459434"/>
+<entry endPc="268460836" name="i" stackId="16" startPc="268460807"/>
+<entry endPc="268460836" name="hiscorrect" stackId="15" startPc="268460743"/>
+<entry endPc="268460932" name="kkal_txt" stackId="11" startPc="268460650"/>
+<entry endPc="268460932" name="kkal_print" stackId="14" startPc="268460650"/>
+<entry endPc="268460932" name="totalKkal" stackId="13" startPc="268460650"/>
+<entry endPc="268460932" name="acthis" stackId="12" startPc="268460650"/>
+<entry endPc="268460932" name="kkal" stackId="10" startPc="268460650"/>
+<entry endPc="268460932" name="activity" stackId="9" startPc="268460650"/>
+<entry endPc="268461531" name="activproz" stackId="12" startPc="268460937"/>
+<entry endPc="268461531" name="stepsGoal" stackId="10" startPc="268460937"/>
+<entry endPc="268461531" name="space" stackId="14" startPc="268460937"/>
+<entry endPc="268461531" name="steps_txt" stackId="13" startPc="268460937"/>
+<entry endPc="268461531" name="activity" stackId="9" startPc="268460937"/>
+<entry endPc="268461531" name="stepsLive" stackId="11" startPc="268460937"/>
+<entry endPc="268463746" name="dateStrings" stackId="10" startPc="268461536"/>
+<entry endPc="268463746" name="time" stackId="16" startPc="268461536"/>
+<entry endPc="268463746" name="weltmin" stackId="13" startPc="268461536"/>
+<entry endPc="268463746" name="clockTime" stackId="9" startPc="268461536"/>
+<entry endPc="268463746" name="hour" stackId="14" startPc="268461536"/>
+<entry endPc="268463746" name="min" stackId="15" startPc="268461536"/>
+<entry endPc="268463746" name="time_print" stackId="21" startPc="268461536"/>
+<entry endPc="268463746" name="setweltzeit" stackId="8" startPc="268461536"/>
+<entry endPc="268463746" name="diffday" stackId="20" startPc="268461536"/>
+<entry endPc="268463746" name="zone" stackId="11" startPc="268461536"/>
+<entry endPc="268463746" name="ampm" stackId="19" startPc="268461536"/>
+<entry endPc="268463746" name="day" stackId="17" startPc="268461536"/>
+<entry endPc="268463746" name="welthour" stackId="12" startPc="268461536"/>
+<entry endPc="268463746" name="time_string" stackId="18" startPc="268461536"/>
+<entry endPc="268463746" name="weltzeit" stackId="7" startPc="268461536"/>
+<entry endPc="268464739" name="winkel" stackId="13" startPc="268463893"/>
+<entry endPc="268464739" name="yy2" stackId="12" startPc="268463893"/>
+<entry endPc="268464739" name="slim" stackId="14" startPc="268463893"/>
+<entry endPc="268464739" name="xx2" stackId="10" startPc="268463893"/>
+<entry endPc="268464739" name="xx" stackId="9" startPc="268463893"/>
+<entry endPc="268464739" name="yy" stackId="11" startPc="268463893"/>
+<entry endPc="268464755" name="k" stackId="8" startPc="268463868"/>
+<entry endPc="268465135" name="winkel" stackId="16" startPc="268464942"/>
+<entry endPc="268465151" name="k" stackId="15" startPc="268464917"/>
+<entry endPc="268465906" name="winkel" stackId="22" startPc="268465332"/>
+<entry endPc="268465906" name="yy2" stackId="21" startPc="268465332"/>
+<entry endPc="268465906" name="slim" stackId="23" startPc="268465332"/>
+<entry endPc="268465906" name="xx2" stackId="19" startPc="268465332"/>
+<entry endPc="268465906" name="xx" stackId="18" startPc="268465332"/>
+<entry endPc="268465906" name="yy" stackId="20" startPc="268465332"/>
+<entry endPc="268465922" name="k" stackId="17" startPc="268465313"/>
+<entry endPc="268466010" name="sec" stackId="7" startPc="268463751"/>
+<entry endPc="268466010" name="dateInfo" stackId="6" startPc="268463751"/>
+<entry endPc="268467802" name="batt" stackId="9" startPc="268466015"/>
+<entry endPc="268468912" name="x" stackId="6" startPc="268468028"/>
+<entry endPc="268468912" name="ds" stackId="7" startPc="268468028"/>
+<entry endPc="268468912" name="Jrise" stackId="9" startPc="268468028"/>
+<entry endPc="268468912" name="Jset" stackId="8" startPc="268468028"/>
+<entry endPc="268468912" name="d" stackId="5" startPc="268468028"/>
+<entry endPc="268468958" name="dictionary" stackId="1" startPc="268468917"/>
+<entry endPc="268469466" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268469129"/>
+<entry endPc="268469466" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268469129"/>
+<entry endPc="268469466" name="rez_cmp_local_custom_drawable_R1ZS5S38DNLJSPYAHBEV" stackId="2" startPc="268469129"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="FenixCoreView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="FenixCoreView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="FenixCoreView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="FenixCoreView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawTime" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="yoffset"/>
+<param id="ampmoffset"/>
+<param id="secoffset"/>
+<param id="textfont"/>
+<param id="secfont"/>
+<param id="fgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSunriseSunset" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="yespm"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHRgraph" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="detail"/>
+<param id="width"/>
+<param id="height"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawAltitude" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="unit"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDistance" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="unit"/>
+<param id="recalc"/>
+<param id="show_unit_txt"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepsWeekGoal" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="goal"/>
+<param id="color"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawIcons" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="bt"/>
+<param id="alarm"/>
+<param id="message"/>
+<param id="color"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepsGraph" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="device_settings"/>
+<param id="balken"/>
+<param id="mode"/>
+<param id="color"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDate" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="mode"/>
+<param id="language"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSteps" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="logo"/>
+<param id="color"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMoveBar" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="color"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawKkal" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="logo"/>
+<param id="week"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepsGoal" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="tight"/>
+<param id="txtfont"/>
+<param id="color"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawWorldTime" parent="FenixCoreView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="txtfont"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSec" parent="FenixCoreView">
+<param id="dc"/>
+<param id="mode"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<param id="watch"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawbatt" parent="FenixCoreView">
+<param id="dc"/>
+<param id="batx"/>
+<param id="baty"/>
+<param id="mode"/>
+<param id="color"/>
+<param id="fontminvari"/>
+<param id="fgc"/>
+<param id="bgc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="FenixCoreView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="FenixCoreView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="FenixCoreView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SunCalc">
+<documentation/>
+</functionEntry>
+<functionEntry name="fromJulian" parent="SunCalc">
+<param id="j"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="round" parent="SunCalc">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calculate" parent="SunCalc">
+<param id="moment"/>
+<param id="lat"/>
+<param id="lng"/>
+<param id="what"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="FenixCoreApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="FenixCoreApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="FenixCoreApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="FenixCoreApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="FenixCoreApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

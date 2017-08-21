@@ -1,0 +1,18 @@
+info face="corebig" size=72 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=0 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=9 base=9 scaleW=54 scaleH=20 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="dottiny_0.png"
+chars count=12
+char id=48   x=0   y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=49   x=8  y=0     width=2    height=9    xoffset=0     yoffset=0     xadvance=3    page=0  chnl=15
+char id=50   x=13  y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=51   x=20  y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=52   x=28 y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=53   x=35 y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=54   x=42  y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=55   x=49 y=0     width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=56   x=0  y=11    width=5    height=9   xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=57   x=8  y=11   width=5    height=9    xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15
+char id=58   x=22  y=11    width=1     height=9    xoffset=0     yoffset=0    xadvance=2    page=0  chnl=15
+char id=35   x=16  y=11    width=5    height=9    xoffset=0     yoffset=0    xadvance=11    page=0  chnl=15
+char id=46   x=24  y=11    width=1     height=9    xoffset=0     yoffset=0    xadvance=2    page=0  chnl=15
+char id=32   x=26  y=11    width=5    height=9   xoffset=0     yoffset=0    xadvance=6    page=0  chnl=15

@@ -1,0 +1,21 @@
+<properties>
+    <property id="foreground" type="number">0</property>
+    <property id="background" type="number">0</property>
+    <property id="watchfont" type="number">1</property>
+    <property id="topline" type="number">0</property>
+    <property id="toplinecolor" type="boolean">false</property>
+    <property id="bold" type="boolean">false</property>
+    <property id="upline" type="number">0</property>
+    <property id="uplinecolor" type="boolean">false</property>
+    <property id="lowline" type="number">0</property>
+    <property id="lowlinecolor" type="boolean">false</property>
+    <property id="lastline" type="number">0</property>
+    <property id="lastlinecolor" type="boolean">false</property>
+    <property id="lastlineactive" type="boolean">false</property>
+    <property id="secindicator" type="number">0</property>
+    <property id="utc" type="number">17</property>
+    <property id="utchide" type="boolean">0</property>
+    <property id="language" type="number">0</property>
+
+
+</properties>
